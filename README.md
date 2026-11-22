@@ -2,10 +2,10 @@
 
 An end-to-end strategic export business plan developed for the **BumiBara** brand, specializing in the international trade of Indonesian premium coconut shell charcoal briquettes (**HS Code 4402.20**). This project integrates data-driven market research, cross-border digital operations, maritime logistics for dangerous goods, and continuous quality improvement frameworks.
 
-> **📄 Document Access (Google Drive):**  
-> Due to GitHub PDF preview limitations on large LFS files, you can view or read the complete documents directly via Google Drive:
-> - **Full Export Business Plan (PDF):** [View Project Document](https://drive.google.com/file/d/17MYR9CPEiVpPqxbtCujh_g-q3QnUGKoA/view?usp=sharing)
-> - **Executive Pitch Deck (PDF):** [View Pitch Deck](https://drive.google.com/file/d/1Db61btBLoYd_DYNwMnCRardHGGWOvAE6/view?usp=sharing)
+**📄 Document Access (Google Drive):**  
+Due to GitHub PDF preview limitations on large LFS files, you can view or read the complete documents directly via Google Drive:
+- **Full Export Business Plan (PDF):** [View Project Document](https://drive.google.com/file/d/17MYR9CPEiVpPqxbtCujh_g-q3QnUGKoA/view?usp=sharing)
+- **Executive Pitch Deck (PDF):** [View Pitch Deck](https://drive.google.com/file/d/1Db61btBLoYd_DYNwMnCRardHGGWOvAE6/view?usp=sharing)
 ---
 
 ## 📌 Project Overview
